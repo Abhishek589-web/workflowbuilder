@@ -1,0 +1,1 @@
+import{j as t}from"./index-Da2c2asK.js";const o=s=>t.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",fill:"currentColor",viewBox:"0 0 256 256",...s,children:t.jsx("path",{d:"M216 40H40a16 16 0 0 0-16 16v144a16 16 0 0 0 16 16h176a16 16 0 0 0 16-16V56a16 16 0 0 0-16-16m0 160H40V56h176z"})});export{o as default};

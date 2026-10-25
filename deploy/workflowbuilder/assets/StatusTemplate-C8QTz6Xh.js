@@ -1,0 +1,1 @@
+import{j as t}from"./index-Da2c2asK.js";const o=s=>t.jsx("svg",{xmlns:"http://www.w3.org/2000/svg",fill:"none",viewBox:"0 0 16 16",...s,children:t.jsx("circle",{cx:8,cy:8,r:6,fill:"#045FA0",stroke:"#3AB0F6",strokeWidth:4})});export{o as default};
