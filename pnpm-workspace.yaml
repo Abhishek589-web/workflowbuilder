@@ -41,5 +41,3 @@ catalog:
   'ai': ^6.0.168
   '@ai-sdk/openai-compatible': ^2.0.74
 
-useNodeVersion: 22.12.0
-engineStrict: true
